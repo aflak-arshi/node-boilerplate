@@ -1,0 +1,14 @@
+{
+    "jwtPrivateKey": "unsecureKey",
+    "port": "3800",
+    "apiVersion": "/api/v1",
+    "dbDetails": {
+        "databaseName": "mtch_hospital",
+        "userName": "postgres",
+        "password": "root",
+        "host": "localhost",
+        "dialect": "postgres"
+
+    },
+    "requiresAuth": false
+}
